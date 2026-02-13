@@ -101,6 +101,8 @@
     All strings must be wrapped in quotes so SQL knows it is text
     and not a column name or keyword.
   </div>
+  
+<br>
 
   <div class="info">
     <strong>Important:</strong><br />
