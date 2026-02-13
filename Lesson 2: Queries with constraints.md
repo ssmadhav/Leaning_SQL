@@ -1,4 +1,4 @@
-  <h1>SQL Lesson 2: Queries with constraints (Pt. 1)</h1>
+  <h1>SQL Lesson 2: Queries with constraints</h1>
 
   <h2>Why do we need WHERE?</h2>
   <p>
